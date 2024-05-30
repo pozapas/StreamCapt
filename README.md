@@ -25,7 +25,3 @@ A Python script using OpenCV and pandas to record videos from multiple UDP strea
 
 - The script does not handle errors in reading the Excel file. Make sure your file is well-formatted.
 - The script does not handle network connection losses or video stream interruptions. It will continue running until all threads are completed.
-
-## Changelog
-
-[Insert any changes, bug fixes, or new features you've added to the repository]
